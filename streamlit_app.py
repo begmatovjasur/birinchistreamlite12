@@ -3,4 +3,4 @@ import pandas as pd
 
 st.title('🤖 Machine learning')
 
-st.info('Hello world')
+st.info(' this is a app for machine learning model')
